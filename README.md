@@ -1,4 +1,3 @@
-![logo](https://github.com/SHlok06majmundar/SHlok06majmundar/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shlok Majmundar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
