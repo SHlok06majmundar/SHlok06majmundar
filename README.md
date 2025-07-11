@@ -18,5 +18,7 @@ I'm currently working as a Software Developer<br>Code is poetry in motion
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Shlok Majmundar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/9099104541@upi) 
 
-  
+  ## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SHlok06majmundar&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
