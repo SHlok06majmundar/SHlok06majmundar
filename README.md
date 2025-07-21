@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm a future Software Developer   
+🧑‍💻 Crafting clean code for a smarter future  
 🧠 Code is poetry in motion  
 ⚡ I love crafting clean, scalable, and efficient solutions
 
