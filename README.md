@@ -13,7 +13,7 @@
 - 💼 Open to SDE Internships and Full-Time Roles (Frontend | Full Stack | Cloud | AI)  
 - 🔍 Strong foundation in DSA, OOP, DBMS, OS, CN & System Design  
 - 💡 Passionate about clean code, system architecture, and learning new tech  
-- 🛠️ Always building and contributing to tech that solves real problems
+- 🛠️ Always building and contributing to tech that solves real problems  
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-### 📈 GitHub Stats & Insights
+### 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHlok06majmundar&show_icons=true&theme=tokyonight&count_private=true" height="160" />
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SHlok06majmundar&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SHlok06majmundar&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
@@ -89,9 +89,11 @@
 
 ### 🏅 Achievements
 
-- 💡 Built & deployed 10+ production-grade full-stack applications  
-- 🌱 Constantly learning and implementing DevOps, cloud-native & AI tech  
-- 📬 Active contributor and tech community learner  
+- 🚀 Built & deployed 10+ full-stack production-ready applications  
+- 🧠 Strong understanding of system design, data structures & clean architecture  
+- 🛠️ Active contributor and learner in tech communities  
+- 🌐 Created projects involving AI, WebRTC, Docker, and serverless architecture  
+- 🧑‍🏫 Participated in national/international hackathons & open-source events  
 
 ---
 
