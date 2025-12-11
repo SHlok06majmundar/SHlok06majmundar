@@ -61,19 +61,18 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SHlok06majmundar&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SHlok06majmundar&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHlok06majmundar&theme=react-dark&area=true&hide_border=true"/>
-</p>
+
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHlok06majmundar&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SHlok06majmundar&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
