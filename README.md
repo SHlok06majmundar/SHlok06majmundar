@@ -27,7 +27,7 @@
 
 ```ts
 const shlok: Developer = {
-  role:       "Software Developer & Project Lead @ Baroda Web",
+  role:       "Software Developer @ Baroda Web",
   location:   "Vadodara, Gujarat, India 🇮🇳",
   experience: "1.5+ years shipping production SaaS, e-commerce & mobile apps",
   education:  "B.Tech IT — ITM (SLS) Baroda University (2022–2026)",
